@@ -1,0 +1,7 @@
+{ "provider": "cloudinary", 
+    "providerOptions": { 
+        "cloud_name": "ducqiisec", 
+        "api_key": "237195424769672", 
+        "api_secret": "dYo-3yY6nUiMWv-hZFunGILtbF8" 
+        } 
+    }
